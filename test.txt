@@ -1,0 +1,10 @@
+ Volume in drive C is Windows 10
+ Volume Serial Number is 02ED-056C
+
+ Directory of C:\Users\Sasedeve\Desktop\gitfolder
+
+24-05-2018  12:56 PM    <DIR>          .
+24-05-2018  12:56 PM    <DIR>          ..
+24-05-2018  12:56 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  146,572,476,416 bytes free
